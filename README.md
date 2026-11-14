@@ -2,8 +2,6 @@
 
 🧑‍💻 I'm a software developer passionate about building practical tools and open-source projects. I primarily work with C# and .NET, including ASP.NET Core, and use Flutter to build cross-platform applications. I also use Python for Telegram bots, automation, and scripting tasks where rapid development is key. Beyond application development, I enjoy exploring low-level programming, assembly manipulation, and native integrations.
 
-🌐 [soheiljs.ir](https://soheiljs.ir)
-
 ## 🚀 Main Projects
 
 | 📘 Project | 📄 Description | ⭐ Stars | 🤝 Forks |
